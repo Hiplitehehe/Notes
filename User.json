@@ -18,5 +18,9 @@
     {
         "username": "Hiplite4",
         "password": "scrypt:32768:8:1$CnKZzodqAiwKd1M6$35bee5b43dedd858f3ea9171b922743c4f92e049baa3692217511f46b284eb77caa4266ba62177d2bec74db266ffc5be7a749bab9e123bc98ecef903e08d4646"
+    },
+    {
+        "username": "bonohi2327@ruhtan.com",
+        "password": "scrypt:32768:8:1$qNvMXJuexuUp3ulQ$65d677e8e8d2700cd820919e1d779011480ba2f0bb3a9fdc9f9527ba0cbc6bb02458a8d0aa7b31fce622972fe6493efe3c3e9f8cdf1fe688a8ade399e423f23d"
     }
 ]
