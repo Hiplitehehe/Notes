@@ -1,9 +1,10 @@
 [
     {
-        "content": "Ccc"
+        "title": "Shopping List",
+        "content": "Buy milk, eggs, and bread."
     },
     {
-        "title": "Gccv",
-        "content": "Ccvv"
+        "title": "Workout Plan",
+        "content": "Monday: Cardio, Tuesday: Weights, Wednesday: Rest"
     }
 ]
