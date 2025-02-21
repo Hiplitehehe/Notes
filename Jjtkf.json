@@ -23,7 +23,11 @@
         "content": "Cfcfc",
         "user": "A",
         "comments": [
-            "Ccvv"
+            "Ccvv",
+            {
+                "user": "A",
+                "text": "Vfff"
+            }
         ]
     }
 ]
