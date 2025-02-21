@@ -10,5 +10,9 @@
     {
         "username": "hiplitehehe@gmail.com",
         "password": "scrypt:32768:8:1$jzD7WOIHSX9e4jlH$9bfa8f41a0acc6eead7a04366db163dcfb607875a02e51704b2de72a98e4a83502d77ad10d8e6285ae54c2b35c01f74b6d4b165a30e95220e4e37a85841e5625"
+    },
+    {
+        "username": "hiplitehehe@gmail.comcfc",
+        "password": "scrypt:32768:8:1$EaDYoojibRvjcNQ0$31038fb0669eec164f518415db84f26011eda2c200b363ccef6dee02a5ef4ae146be34d6ec36714b4410c869e556208bcbfa9d8bf4764930816fe1209da3ce83"
     }
 ]
