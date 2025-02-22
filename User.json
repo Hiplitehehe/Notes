@@ -26,5 +26,9 @@
     {
         "username": "bonohi232vvvv7@ruhtan.com",
         "password": "scrypt:32768:8:1$hAwVI9vDgHb92v6d$2527bcdbb5c24d284ec6beeffce7e2eb661b68935bb66dbc40a5ededcfe5adf71dcd2e957594181d836115941aa385ef6c7c446f1d1d617e731e988647924e57"
+    },
+    {
+        "username": "Jjjj",
+        "password": "scrypt:32768:8:1$jT7thAynVG4qgwhh$dec89a04ca08d2b15284b34d514b271e87309b89689054af2e2530e2c709aad403ad57ac96a4b689699b7933c8a1703081ff33b3c1fee0a4d882c206c1d45bb0"
     }
 ]
