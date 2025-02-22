@@ -2,6 +2,12 @@
     {
         "title": "Nnnn",
         "content": "Mnnn",
-        "user": "A"
+        "user": "A",
+        "comments": [
+            {
+                "user": "A",
+                "text": "Bbb"
+            }
+        ]
     }
 ]
