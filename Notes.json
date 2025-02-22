@@ -1,8 +1,10 @@
 [
     {
-        "title": "Vvvv",
-        "content": "Vvvv",
-        "user": "A"
+        "title": "Sample Note",
+    "content": "Some content...",
+    "user": "test_user",
+    "image_url": "https://example.com/image.png",
+    "game_name": "Roblox Game"
     },
     {
         "title": "Ccvc",
