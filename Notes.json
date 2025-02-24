@@ -5,7 +5,14 @@
         "user": "adminnbn",
         "image_url": "https://example.com/image1.jpg",
         "game_name": "Game A",
-        "game_image_url": "https://example.com/gameA.jpg"
+        "game_image_url": "https://example.com/gameA.jpg",
+        "comments": [
+            {
+                "user": "adminnbn",
+                "content": "Hbv",
+                "created_at": "2025-02-24T17:20:32.813034"
+            }
+        ]
     },
     {
         "title": "Second Note",
