@@ -1,150 +1,18 @@
 [
     {
-        "title": "Sample Note",
-        "content": "Some content...",
-        "user": "test_user",
-        "image_url": "https://example.com/image.png",
-        "game_name": "Roblox Game"
+        "title": "First Note",
+        "content": "This is the first note's content.",
+        "user": "JohnDoe",
+        "image_url": "https://example.com/image1.jpg",
+        "game_name": "Game A",
+        "game_image_url": "https://example.com/gameA.jpg"
     },
     {
-        "title": "Ccvc",
-        "content": "Cccc",
-        "user": "A"
-    },
-    {
-        "title": "Hhhuh",
-        "content": "Hhhj",
-        "user": "A",
-        "image_url": "https://raw.githubusercontent.com/Hiplitehehe/Notes/main/images/61345202aa39422d9914fdecf1a705cd_chrome_screenshot_15 Feb 2025 17_50_44 GMT+08_00.png"
-    },
-    {
-        "title": "Gfgf",
-        "content": "Fff",
-        "user": "A",
-        "image_url": null
-    },
-    {
-        "title": "Vcc",
-        "content": "Ccc",
-        "user": "A",
-        "image_url": null
-    },
-    {
-        "title": "Hhb",
-        "content": "Hhh",
-        "user": "adminnbn",
-        "image_url": null
-    },
-    {
-        "title": "Gghv",
-        "content": "Hhhhh",
-        "user": "adminnbn",
-        "image_url": null
-    },
-    {
-        "title": "Bhbb",
-        "content": "Ghhh",
-        "user": "adminnbn",
-        "image_url": null
-    },
-    {
-        "title": "Dxd",
-        "content": "Xxx",
-        "user": "adminnbn",
-        "image_url": null
-    },
-    {
-        "title": "Dfff",
-        "content": "Ffff",
-        "user": "adminnbn",
-        "image_url": "https://t0.rbxcdn.com/180DAY-b9b1d7b305e38c8666fd39852423d926"
-    },
-    {
-        "title": "Nnn",
-        "content": "Bjnn",
-        "user": "adminnbn",
-        "image_url": null
-    },
-    {
-        "title": "Nnnn",
-        "content": "Jbnn",
-        "user": "adminnbn",
-        "image_url": null
-    },
-    {
-        "title": "Nsjsj",
-        "content": "Bbss",
-        "user": "adminnbn",
-        "image_url": "https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter"
-    },
-    {
-        "title": "Gggg",
-        "content": "Vhvhv",
-        "user": "adminnbn",
-        "image_url": "https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter",
-        "roblox_place_id": "7250769796"
-    },
-    {
-        "title": "Hshzhz",
-        "content": "Zbhsbdb",
-        "user": "adminnbn",
-        "image_url": "https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter",
-        "roblox_place_id": "7250769796"
-    },
-    {
-        "title": "Vhh",
-        "content": "Bbbb",
-        "user": "adminnbn",
-        "image_url": "https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter",
-        "roblox_place_id": "7250769796"
-    },
-    {
-        "title": "Gsgsg",
-        "content": "Sgsggs",
-        "user": "adminnbn",
-        "image_url": "https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter",
-        "game_name": null
-    },
-    {
-        "title": "Sbbzb",
-        "content": "Sbbsbs",
-        "user": "adminnbn",
-        "image_url": "https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter",
-        "game_name": null
-    },
-    {
-        "title": "Fgcgg",
-        "content": "Ggbhgg",
-        "user": "adminnbn",
-        "image_url": "https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter",
-        "game_name": "RussellPedrow6's Place"
-    },
-    {
-        "title": "Ggg",
-        "content": "Vgg",
-        "user": "adminnbn",
-        "image_url": "https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter",
-        "game_name": "Build to Survive!"
-    },
-    {
-        "title": "Hhh",
-        "content": "Vvv",
-        "user": "adminnbn",
-        "image_url": "https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter",
-        "game_name": "Build to Survive!"
-    },
-    {
-        "title": "Hsbd",
-        "content": "Bdhdb",
-        "user": "adminnbn",
-        "image_url": "https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter",
-        "game_name": "Build to Survive!"
-    },
-    {
-        "title": "Vgvv",
-        "content": "Cvvv",
-        "user": "adminnbn",
-        "image_url": "https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter",
-        "game_name": "Build to Survive!"
+        "title": "Second Note",
+        "content": "This is another note related to a different game.",
+        "user": "JaneDoe",
+        "image_url": "https://example.com/image2.jpg",
+        "game_name": "Game B",
+        "game_image_url": "https://example.com/gameB.jpg"
     }
 ]
