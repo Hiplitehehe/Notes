@@ -1,30 +1,5 @@
 [
     {
-        "title": "First Note",
-        "content": "This is the first note's content.",
-        "user": "adminnbn",
-        "image_url": "https://example.com/image1.jpg",
-        "game_name": "Game A",
-        "game_image_url": "https://example.com/gameA.jpg",
-        "comments": [
-            {
-                "user": "adminnbn",
-                "content": "Hbv",
-                "created_at": "2025-02-24T17:20:32.813034"
-            },
-            {
-                "user": "adminnbn",
-                "content": "Bdbdb",
-                "created_at": "2025-02-25T06:34:53.375169"
-            },
-            {
-                "user": "adminnbn",
-                "content": "Xxc",
-                "created_at": "2025-02-25T06:43:26.236563"
-            }
-        ]
-    },
-    {
         "title": "Second Note",
         "content": "This is another note related to a different game.",
         "user": "JaneDoe",
