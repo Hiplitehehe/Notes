@@ -3,6 +3,6 @@
         "id": 1,
         "username": "adminnbn",
         "password": "scrypt:32768:8:1$CygPeEvpl00mw0sV$90449952c31d44ba41dcfc677e2d38881cd49a0e69b3af885fd87c6f463cb9b8ecffb7464cfa5687e86c543100ae9eeb430a56896bf11cadfcc704ee7895b049",
-        "is_admin": false
+        "is_admin": true
     }
 ]
