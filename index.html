@@ -1,55 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Code Notes</title>
-    <script>
-        async function fetchNotes() {
-            try {
-                const response = await fetch("/get-notes");
-                if (!response.ok) throw new Error("Failed to fetch notes");
-                const notes = await response.json();
-
-                const noteList = document.getElementById("noteList");
-                noteList.innerHTML = ""; // Clear list before adding new items
-
-                for (const [id, content] of Object.entries(notes)) {
-                    const li = document.createElement("li");
-                    li.innerHTML = `<strong>${id}:</strong> ${content}`;
-                    noteList.appendChild(li);
-                }
-            } catch (error) {
-                console.error("Error fetching notes:", error);
-            }
-        }
-
-        window.onload = fetchNotes; // Load notes when the page loads
-    </script>
-</head>
+<html>
+<head><title>Notes</title></head>
 <body>
-    <h1>Code Notes</h1>
+    <h1>All Notes</h1>
     <ul id="noteList"></ul>
-
-    <h2>Make a New Note</h2>
-    <form action="/save" method="POST">
-        <input type="text" name="noteId" placeholder="Note ID" required><br>
-        <textarea name="content" rows="5" cols="30" placeholder="Write your note here..." required></textarea><br>
-        <input type="submit" value="Save Note">
-    </form>
-
-    <h2>Login</h2>
-    <form action="/login" method="POST">
-        <input type="text" name="username" placeholder="Username" required><br>
-        <input type="password" name="password" placeholder="Password" required><br>
-        <input type="submit" value="Login">
-    </form>
-
-    <h2>Register</h2>
-    <form action="/register" method="POST">
-        <input type="text" name="username" placeholder="Username" required><br>
-        <input type="password" name="password" placeholder="Password" required><br>
-        <input type="submit" value="Register">
-    </form>
+    <script>
+        async function loadNotes() {
+            const response = await fetch('/api/notes');
+            const notes = await response.json();
+            const noteList = document.getElementById('noteList');
+            noteList.innerHTML = notes.map(noteId => 
+                `<li><a href="/note/${noteId}">${noteId}</a></li>`
+            ).join('');
+        }
+        loadNotes();
+    </script>
 </body>
 </html>
