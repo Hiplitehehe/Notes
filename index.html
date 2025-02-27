@@ -1,6 +1,32 @@
 <!DOCTYPE html>
-<html>
-<head><title>Code Notes</title></head>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Notes</title>
+    <script>
+        async function fetchNotes() {
+            try {
+                const response = await fetch("/get-notes");
+                if (!response.ok) throw new Error("Failed to fetch notes");
+                const notes = await response.json();
+
+                const noteList = document.getElementById("noteList");
+                noteList.innerHTML = ""; // Clear list before adding new items
+
+                for (const [id, content] of Object.entries(notes)) {
+                    const li = document.createElement("li");
+                    li.innerHTML = `<strong>${id}:</strong> ${content}`;
+                    noteList.appendChild(li);
+                }
+            } catch (error) {
+                console.error("Error fetching notes:", error);
+            }
+        }
+
+        window.onload = fetchNotes; // Load notes when the page loads
+    </script>
+</head>
 <body>
     <h1>Code Notes</h1>
     <ul id="noteList"></ul>
