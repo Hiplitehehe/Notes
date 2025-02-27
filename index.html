@@ -1,19 +1,25 @@
 <!DOCTYPE html>
 <html>
-<head><title>Notes</title></head>
+<head>
+    <title>Code Notes</title>
+</head>
 <body>
-    <h1>All Notes</h1>
-    <ul id="noteList"></ul>
-    <script>
-        async function loadNotes() {
-            const response = await fetch('/api/notes');
-            const notes = await response.json();
-            const noteList = document.getElementById('noteList');
-            noteList.innerHTML = notes.map(noteId => 
-                `<li><a href="/note/${noteId}">${noteId}</a></li>`
-            ).join('');
-        }
-        loadNotes();
-    </script>
+    <h1>Code Notes</h1>
+    
+    <h2>Your Notes</h2>
+    <ul>
+        {{NOTE_LINKS}}
+    </ul>
+
+    <h2>Make a New Note</h2>
+    <form action="/save" method="POST">
+        <input type="text" name="noteId" placeholder="Note ID" required><br>
+        <textarea name="content" rows="5" cols="30" placeholder="Write your note here..." required></textarea><br>
+        <input type="submit" value="Save Note">
+    </form>
+
+    <div id="auth-section">
+        {{AUTH_SECTION}}
+    </div>
 </body>
 </html>
