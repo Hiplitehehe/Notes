@@ -1,1 +1,8 @@
-{"A":"ZGZm"}
+{
+    "user1@example.com": {
+        "password": "hashedpassword1"
+    },
+    "user2@example.com": {
+        "password": "hashedpassword2"
+    }
+}
