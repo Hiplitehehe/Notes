@@ -1,4 +1,14 @@
 [
-    { "username": "user1", "password": "hashedpassword1" },
-    { "username": "user2", "password": "hashedpassword2" }
+  {
+    "username": "user1",
+    "password": "hashedpassword1"
+  },
+  {
+    "username": "user2",
+    "password": "hashedpassword2"
+  },
+  {
+    "username": "adminnbn",
+    "password": "CSnlrlgG66alKURaPRFKAVCsB1K5+i7I9gz1PNgMHGs="
+  }
 ]
