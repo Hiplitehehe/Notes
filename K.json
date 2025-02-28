@@ -1,14 +1,4 @@
-{
-  "user1@example.com": {
-    "password": "hashedpassword1"
-  },
-  "user2@example.com": {
-    "password": "hashedpassword2"
-  },
-  "A@kkkmm.mmm": {
-    "password": "dff"
-  },
-  "adminnbn@fcc": {
-    "password": "5HqKhFcZCufTycW"
-  }
-}
+[
+    { "username": "user1", "password": "hashedpassword1" },
+    { "username": "user2", "password": "hashedpassword2" }
+]
