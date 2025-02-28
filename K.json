@@ -1,8 +1,11 @@
 {
-    "user1@example.com": {
-        "password": "hashedpassword1"
-    },
-    "user2@example.com": {
-        "password": "hashedpassword2"
-    }
+  "user1@example.com": {
+    "password": "hashedpassword1"
+  },
+  "user2@example.com": {
+    "password": "hashedpassword2"
+  },
+  "A@kkkmm.mmm": {
+    "password": "dff"
+  }
 }
