@@ -3,5 +3,10 @@
     "title": "Test Note",
     "content": "Content",
     "approved": false
+  },
+  {
+    "title": "Test Note",
+    "content": "Content",
+    "approved": false
   }
 ]
