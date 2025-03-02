@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "title": "Test Note",
+    "content": "Content",
+    "approved": false
+  }
+]
