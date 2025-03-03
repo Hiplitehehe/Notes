@@ -6,6 +6,13 @@
       "categoryId": null,
       "id": 1,
       "lastModified": "2025-03-03T16:47:21.540Z"
+    },
+    {
+      "title": "New Note",
+      "content": "Start writing your note here...",
+      "categoryId": null,
+      "id": 2,
+      "lastModified": "2025-03-03T16:50:55.740Z"
     }
   ],
   "categories": []
