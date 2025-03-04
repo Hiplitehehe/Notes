@@ -8,6 +8,15 @@
       "id": 1,
       "lastModified": "2025-03-04T10:58:53.449Z",
       "userId": null
+    },
+    {
+      "title": "New Note",
+      "content": "Start writing your note here...",
+      "categoryId": null,
+      "public": false,
+      "id": 2,
+      "lastModified": "2025-03-04T11:21:59.879Z",
+      "userId": null
     }
   ],
   "categories": []
