@@ -56,11 +56,11 @@
     },
     {
       "title": "New Note",
-      "content": "Start writing your note here...",
+      "content": "\n## Roblox Game Information\n**Game ID:** 7250769796\n**Game Link:** https://www.roblox.com/games/7250769796\n\n### Game Details\n- **Created by:** [Creator Name]\n- **Genre:** [Game Genre]\n- **Rating:** [Game Rating]\n\n### Game Description\n[Game Description]\n\n### Screenshots\n[Add screenshots here]\nStart writing your note here...",
       "categoryId": null,
       "public": false,
       "id": 7,
-      "lastModified": "2025-03-04T03:29:53.309Z",
+      "lastModified": "2025-03-04T03:30:28.474Z",
       "userId": null
     }
   ],
