@@ -35,13 +35,13 @@
     },
     {
       "title": "New Roblox Game",
-      "content": "Add your game description and development notes here...",
+      "content": "## Roblox Game Information\n**Game Name:** Build to Survive!\n- **Genre**: [Game genre]\n- **Game ID:** 7250769796\n- **Game Link:** https://www.roblox.com/games/7250769796\n\n### Game Screenshot\n![Game Thumbnail](https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter)\n\n### Notes & Ideas\nAdd your game description and development notes here...",
       "categoryId": null,
       "public": false,
-      "robloxGameId": null,
-      "gameName": "My Awesome Game",
+      "robloxGameId": "7250769796",
+      "gameName": "Build to Survive!",
       "id": 4,
-      "lastModified": "2025-03-04T15:33:29.162Z",
+      "lastModified": "2025-03-04T15:33:42.550Z",
       "userId": null,
       "approverNotes": ""
     }
