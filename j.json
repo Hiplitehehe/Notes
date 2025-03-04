@@ -32,6 +32,17 @@
       "approverNotes": "",
       "robloxGameId": "7250769796",
       "gameName": "Build to Survive!"
+    },
+    {
+      "title": "New Roblox Game",
+      "content": "Add your game description and development notes here...",
+      "categoryId": null,
+      "public": false,
+      "robloxGameId": null,
+      "gameName": "My Awesome Game",
+      "id": 4,
+      "lastModified": "2025-03-04T15:33:23.121Z",
+      "userId": null
     }
   ],
   "categories": []
