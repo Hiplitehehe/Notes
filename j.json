@@ -128,15 +128,15 @@
       "approverNotes": null
     },
     {
-      "title": "New Note",
-      "content": "Start writing your note here...",
+      "title": "New Roblox Game",
+      "content": "Add your game description and development notes here...",
       "categoryId": null,
       "public": false,
+      "robloxGameId": null,
+      "gameName": "My Awesome Game",
       "id": 12,
       "userId": "Hiplitehehe",
-      "lastModified": "2025-03-04T19:12:34.360Z",
-      "robloxGameId": null,
-      "gameName": null,
+      "lastModified": "2025-03-04T19:12:58.407Z",
       "gameImage": null,
       "approverNotes": null
     }
