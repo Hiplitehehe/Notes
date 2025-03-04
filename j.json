@@ -69,6 +69,16 @@
       "id": 6,
       "lastModified": "2025-03-04T15:44:12.934Z",
       "userId": null
+    },
+    {
+      "title": "New Roblox Game",
+      "content": "Add your game description and development notes here...",
+      "categoryId": null,
+      "public": false,
+      "robloxGameId": null,
+      "gameName": "My Awesome Game",
+      "id": 7,
+      "lastModified": "2025-03-04T17:45:07.779Z"
     }
   ],
   "categories": []
