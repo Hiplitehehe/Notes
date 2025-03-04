@@ -100,6 +100,19 @@
       "gameName": null,
       "gameImage": null,
       "approverNotes": null
+    },
+    {
+      "title": "New Note",
+      "content": "Start writing your note here...",
+      "categoryId": null,
+      "public": false,
+      "id": 10,
+      "userId": "Hiplitehehe",
+      "lastModified": "2025-03-04T18:57:29.902Z",
+      "robloxGameId": null,
+      "gameName": null,
+      "gameImage": null,
+      "approverNotes": null
     }
   ],
   "categories": []
