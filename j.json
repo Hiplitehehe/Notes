@@ -165,6 +165,32 @@
       "gameName": null,
       "gameImage": null,
       "approverNotes": null
+    },
+    {
+      "title": "New Note",
+      "content": "Start writing your note here...",
+      "categoryId": null,
+      "public": false,
+      "id": 14,
+      "userId": "Hiplitehehe",
+      "lastModified": "2025-03-05T02:26:28.680Z",
+      "robloxGameId": null,
+      "gameName": null,
+      "gameImage": null,
+      "approverNotes": null
+    },
+    {
+      "title": "New Note",
+      "content": "Start writing your note here...",
+      "categoryId": null,
+      "public": false,
+      "id": 14,
+      "userId": "Hiplitehehe",
+      "lastModified": "2025-03-05T02:26:28.680Z",
+      "robloxGameId": null,
+      "gameName": null,
+      "gameImage": null,
+      "approverNotes": null
     }
   ],
   "categories": []
