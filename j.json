@@ -1,197 +1,28 @@
-{
-  "notes": [
-    {
-      "title": "My Roblox Game",
-      "content": "## Game Detailshjbb\n**Game Name**: [Build to Survive!]\n- **Genre**: [Game genre]\n- **Game ID:** 7250769796\n- **Game Link:** https://www.roblox.com/games/7250769796\n\n### Game Screenshot\n![Game Thumbnail](https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter)\n\n### Notes & Ideas\n\nhere]\n# My Awesome Roblox ",
-      "categoryId": null,
-      "public": true,
-      "id": 1,
-      "lastModified": "2025-03-04T15:01:55.142Z",
-      "userId": null,
-      "approverNotes": "",
-      "robloxGameId": "7250769796",
-      "gameName": "Build to Survive!"
-    },
-    {
-      "title": "New Note",
-      "content": "Start writing your note here...",
-      "categoryId": null,
-      "public": false,
-      "id": 2,
-      "lastModified": "2025-03-04T17:32:15.815Z",
-      "userId": null,
-      "robloxGameId": "7250769796",
-      "gameName": "Build to Survive!",
-      "gameImage": null
-    },
-    {
-      "title": "My Roblox Game",
-      "content": "## Roblox Game Information\n**Game Name:** Build to Survive!\n- **Genre**: [Game genre]\n- **Game ID:** 7250769796\n- **Game Link:** https://www.roblox.com/games/7250769796\n\n### Game Screenshot\n![Game Thumbnail](https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter)\n\n### Notes & Ideas\n# My Awesome Roblox Game\n\n## Game Details\n- **Game Name**: [Enter your game name]\n- **Genre**: [Game genre]\n- **Target Age**: [Age range]\n- **Release Date**: 04/03/2025\n\n## Description\n[Add your game description here]\n\n## Features\n- Feature 1\n- Feature 2\n- Feature 3\n\n## Development Status\n- Current Stage: [In Development/Beta/Released]\n- Next Update: [Planned features]\n\n![Game Screenshot](https://t4.ftcdn.net/jpg/02/82/72/13/360_F_282721302_ASBt3HAvaJP4uAExXPMRvFxnQWqPIvBh.jpg)\n\n## Links\n- Game URL: [Add your game URL]\n- Developer Profile: [Your Roblox profile]\n\n## Notes\n[Additional notes about development, ideas, or future plans]",
-      "categoryId": null,
-      "public": false,
-      "id": 3,
-      "lastModified": "2025-03-04T15:02:36.056Z",
-      "userId": null,
-      "approverNotes": "",
-      "robloxGameId": "7250769796",
-      "gameName": "Build to Survive!"
-    },
-    {
-      "title": "New Roblox Game",
-      "content": "## Roblox Game Information\n**Game Name:** Build to Survive!\n- **Genre**: [Game genre]\n- **Game ID:** 7250769796\n- **Game Link:** https://www.roblox.com/games/7250769796\n\n### Game Screenshot\n![Game Thumbnail](https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter)\n\n### Notes & Ideas\nAdd your game description and development notes here...",
-      "categoryId": null,
-      "public": false,
-      "robloxGameId": "7250769796",
-      "gameName": "Build to Survive!",
-      "id": 4,
-      "lastModified": "2025-03-04T15:33:42.550Z",
-      "userId": null,
-      "approverNotes": ""
-    },
-    {
-      "title": "New Note",
-      "content": "Start writing your note here...",
-      "categoryId": null,
-      "public": false,
-      "id": 5,
-      "lastModified": "2025-03-04T15:43:47.855Z",
-      "userId": null,
-      "robloxGameId": null,
-      "gameName": null
-    },
-    {
-      "title": "New Roblox Game",
-      "content": "Add your game description and development notes here...",
-      "categoryId": null,
-      "public": false,
-      "robloxGameId": null,
-      "gameName": "My Awesome Game",
-      "id": 6,
-      "lastModified": "2025-03-04T15:44:12.934Z",
-      "userId": null
-    },
-    {
-      "title": "New Roblox Game",
-      "content": "Add your game description and development notes here...",
-      "categoryId": null,
-      "public": false,
-      "robloxGameId": null,
-      "gameName": "My Awesome Game",
-      "id": 7,
-      "lastModified": "2025-03-04T17:46:31.595Z"
-    },
-    {
-      "title": "New Note",
-      "content": "Start writing your note here...",
-      "categoryId": null,
-      "public": false,
-      "id": 8,
-      "lastModified": "2025-03-04T18:32:14.741Z"
-    },
-    {
-      "title": "New Note",
-      "content": "Start writing your note here...",
-      "categoryId": null,
-      "public": false,
-      "id": 9,
-      "userId": "Hiplitehehe",
-      "lastModified": "2025-03-04T18:37:14.262Z",
-      "robloxGameId": null,
-      "gameName": null,
-      "gameImage": null,
-      "approverNotes": null
-    },
-    {
-      "title": "New Note",
-      "content": "Start writing your note here...",
-      "categoryId": null,
-      "public": false,
-      "id": 10,
-      "userId": "Hiplitehehe",
-      "lastModified": "2025-03-04T18:57:29.902Z",
-      "robloxGameId": null,
-      "gameName": null,
-      "gameImage": null,
-      "approverNotes": null
-    },
-    {
-      "title": "New Note",
-      "content": "Start writing your note here...",
-      "categoryId": null,
-      "public": false,
-      "id": 11,
-      "userId": "Hiplitehehe",
-      "lastModified": "2025-03-04T19:06:47.256Z",
-      "robloxGameId": null,
-      "gameName": null,
-      "gameImage": null,
-      "approverNotes": null
-    },
-    {
-      "title": "New Note",
-      "content": "Start writing your note here...",
-      "categoryId": null,
-      "public": false,
-      "id": 12,
-      "userId": "Hiplitehehe",
-      "lastModified": "2025-03-04T19:15:07.608Z",
-      "robloxGameId": null,
-      "gameName": null,
-      "gameImage": null,
-      "approverNotes": null
-    },
-    {
-      "title": "New Note",
-      "content": "Start writing your note here...",
-      "categoryId": null,
-      "public": false,
-      "id": 13,
-      "userId": "Hiplitehehe",
-      "lastModified": "2025-03-04T19:21:59.635Z",
-      "robloxGameId": "7250769796",
-      "gameName": "Build to Survive!",
-      "gameImage": "https://tr.rbxcdn.com/180DAY-7448ce80f7cd2d95ed0bb7660805456d/420/420/Image/Png/noFilter",
-      "approverNotes": null
-    },
-    {
-      "title": "New Note",
-      "content": "Start writing your note here...",
-      "categoryId": null,
-      "public": false,
-      "id": 13,
-      "userId": "Hiplitehehe",
-      "lastModified": "2025-03-04T19:21:36.340Z",
-      "robloxGameId": null,
-      "gameName": null,
-      "gameImage": null,
-      "approverNotes": null
-    },
-    {
-      "title": "New Note",
-      "content": "Start writing your note here...",
-      "categoryId": null,
-      "public": false,
-      "id": 14,
-      "userId": "Hiplitehehe",
-      "lastModified": "2025-03-05T02:26:28.680Z",
-      "robloxGameId": null,
-      "gameName": null,
-      "gameImage": null,
-      "approverNotes": null
-    },
-    {
-      "title": "New Note",
-      "content": "Start writing your note here...",
-      "categoryId": null,
-      "public": false,
-      "id": 14,
-      "userId": "Hiplitehehe",
-      "lastModified": "2025-03-05T02:26:28.680Z",
-      "robloxGameId": null,
-      "gameName": null,
-      "gameImage": null,
-      "approverNotes": null
-    }
-  ],
-  "categories": []
-}
+[
+  {
+    "id": 1,
+    "title": "My First Note",
+    "content": "This is the content of my first note.",
+    "categoryId": 2,
+    "userId": "12345",
+    "public": true,
+    "lastModified": "2023-10-01T12:00:00Z",
+    "robloxGameId": null,
+    "gameName": null,
+    "approverNotes": null,
+    "gameImage": null
+  },
+  {
+    "id": 2,
+    "title": "Another Note",
+    "content": "More details about this note.",
+    "categoryId": 1,
+    "userId": "12345",
+    "public": false,
+    "lastModified": "2023-10-02T15:30:00Z",
+    "robloxGameId": "123456789",
+    "gameName": "Awesome Game",
+    "approverNotes": "Approved by admin.",
+    "gameImage": "https://example.com/image.png"
+  }
+]
