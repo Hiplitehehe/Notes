@@ -1,28 +1,31 @@
-[
-  {
-    "id": 1,
-    "title": "My First Note",
-    "content": "This is the content of my first note.",
-    "categoryId": 2,
-    "userId": "12345",
-    "public": true,
-    "lastModified": "2023-10-01T12:00:00Z",
-    "robloxGameId": null,
-    "gameName": null,
-    "approverNotes": null,
-    "gameImage": null
-  },
-  {
-    "id": 2,
-    "title": "Another Note",
-    "content": "More details about this note.",
-    "categoryId": 1,
-    "userId": "12345",
-    "public": false,
-    "lastModified": "2023-10-02T15:30:00Z",
-    "robloxGameId": "123456789",
-    "gameName": "Awesome Game",
-    "approverNotes": "Approved by admin.",
-    "gameImage": "https://example.com/image.png"
-  }
-]
+{
+  "notes": [
+    {
+      "title": "",
+      "content": "",
+      "categoryId": null,
+      "public": false,
+      "robloxGameId": "7250769796",
+      "gameName": null,
+      "gameImage": null,
+      "id": 1,
+      "userId": "Hiplitehehe",
+      "lastModified": "2025-03-05T03:36:57.421Z",
+      "approverNotes": null
+    },
+    {
+      "title": "",
+      "content": "",
+      "categoryId": null,
+      "public": false,
+      "robloxGameId": "7250769796",
+      "gameName": null,
+      "gameImage": null,
+      "id": 1,
+      "userId": "Hiplitehehe",
+      "lastModified": "2025-03-05T03:36:57.421Z",
+      "approverNotes": null
+    }
+  ],
+  "categories": []
+}
