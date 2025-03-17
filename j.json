@@ -1,1 +1,33 @@
-[{"id": 1, "user": "Hiplitehehe", "title": "Ccc", "content": "Fcc", "game_id": null, "game_name": null, "approved": false}, {"id": 2, "user": "Hiplitehehe", "title": "Vvv", "content": "Vcc", "game_id": null, "game_name": null, "approved": false}, {"id": 3, "user": "Hiplitehehe", "title": "Fff", "content": "Cxx", "game_id": null, "game_name": null, "approved": false}]
+[
+  {
+    "id": 1,
+    "user": "Hiplitehehe",
+    "title": "Ccc",
+    "content": "Fcc",
+    "game_id": null,
+    "game_name": null,
+    "approved": false
+  },
+  {
+    "id": 2,
+    "user": "Hiplitehehe",
+    "title": "Vvv",
+    "content": "Vcc",
+    "game_id": null,
+    "game_name": null,
+    "approved": false
+  },
+  {
+    "id": 3,
+    "user": "Hiplitehehe",
+    "title": "Fff",
+    "content": "Cxx",
+    "game_id": null,
+    "game_name": null,
+    "approved": false
+  },
+  {
+    "text": "Jdjd",
+    "timestamp": "2025-03-17T10:05:02.887Z"
+  }
+]
